@@ -2,10 +2,10 @@
 
 Function written in Java.
 
-## returns:
+## Returns:
 B field in Teslas from a magnet at the coordinates of the point specified (coordinate origin is at the center of the magnet)
 
-## arguments:<br />
+## Arguments:<br />
 - x, y, z are the coordinates of the point at which the B field is found in meters<br />
 - mx, my, mz are the width, height, and depth of the rectangular bar magnet in meters<br />
 - mag_dir is the vector of the magnetization of the magnet in A/m,<br />
