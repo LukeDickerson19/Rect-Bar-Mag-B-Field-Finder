@@ -11,9 +11,9 @@ The magnetic Flux (B field) Vector (in the form of a 3 element array, that repre
 - mag_dir (type: double) is the vector of the magnetization of the magnet in A/m,<br />
   * it is confined to the y direction in A/m<br />
   * positive inputs represent a magnetization in the positive y direction<br />
-    * i.e. the position of the north end of the magnet has a positive y value<br />
+    * i.e. the north end of the magnet is in the positive y direction<br />
   * negative inputs represent a magnetization in the negative y direction<br />
-    * i.e. the position of the north end of the magnet has a negative y value<br />
+    * i.e. the south end of the magnet is in the positive y direction<br />
     
 ## Sources:
 The equations used to calculate the magnetic field were found from journal 1 by Vlatko Cingoski and Hideo Yamashita, provided here in the Sources folder.
