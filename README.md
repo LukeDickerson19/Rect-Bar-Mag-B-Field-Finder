@@ -3,7 +3,7 @@
 Function written in Java.
 
 ## Returns:
-Magnetic Flux (B field) Vector (in the form of a 3 element array) with units Teslas, from a rectangular bar magnet at the coordinates of the point specified (coordinate origin is at the center of the magnet)
+The magnetic Flux (B field) Vector (in the form of a 3 element array, that represents the x,y,z components of the vector) with units Teslas, from a rectangular bar magnet. The vector is of the B field at a specific x,y,z coordinate relative the the magnet (coordinate system origin is at the center of the magnet)
 
 ## Arguments:<br />
 - x, y, z (type: double) are the coordinates of the point at which the B field is found in meters<br />
