@@ -5,11 +5,6 @@ Function written in Java.
 ## Returns:
 The magnetic Flux (B field) Vector (in the form of a 3 element array, that represents the x,y,z components of the vector) with units Teslas, from a rectangular bar magnet. The vector is of the B field at a specific x,y,z coordinate relative the the magnet (coordinate system origin is at the center of the magnet)
 
-
-![](https://github.com/PopeyedLocket/Rect-Bar-mag-B-Field-Finder/blob/master/images/Bfield_at_xyz_image.jpg?s=250x250)
-![](https://github.com/PopeyedLocket/Rect-Bar-mag-B-Field-Finder/blob/master/images/Bfield_at_xyz_image.jpg?v=4&s=250x250)
-![](https://github.com/PopeyedLocket/Rect-Bar-mag-B-Field-Finder/blob/master/images/Bfield_at_xyz_image.jpg?v=4&s=200)
-
 ## Arguments:<br />
 - x, y, z (type: double) are the coordinates of the point at which the B field is to be found in meters<br />
 - mx, my, mz (type: double) are the width, height, and depth of the rectangular bar magnet in meters<br />
@@ -19,6 +14,8 @@ The magnetic Flux (B field) Vector (in the form of a 3 element array, that repre
     * i.e. the north end of the magnet is in the positive y direction<br />
   * negative inputs represent a magnetization in the negative y direction<br />
     * i.e. the south end of the magnet is in the positive y direction<br />
+    
+![](https://github.com/PopeyedLocket/Rect-Bar-mag-B-Field-Finder/blob/master/images/Bfield_at_xyz_image.jpg)
     
 ## Sources:
 The equations used to calculate the magnetic field were found from journal 1 by Vlatko Cingoski and Hideo Yamashita, provided here in the Sources folder.
