@@ -7,7 +7,7 @@ The magnetic Flux (B field) Vector (in the form of a 3 element array, that repre
 
 
 ![](https://github.com/PopeyedLocket/Rect-Bar-mag-B-Field-Finder/blob/master/images/Bfield_at_xyz_image.jpg? =250x250)
-![](https://github.com/PopeyedLocket/Rect-Bar-mag-B-Field-Finder/blob/master/images/Bfield_at_xyz_image.jpg?s=200)
+![](https://github.com/PopeyedLocket/Rect-Bar-mag-B-Field-Finder/blob/master/images/Bfield_at_xyz_image.jpg?v=4&s=200)
 ![Bfield_at_xyz](https://github.com/PopeyedLocket/Rect-Bar-mag-B-Field-Finder/blob/master/images/Bfield_at_xyz_image.jpg?raw=true "B filed at (x,y,z)"){:class="img-responsive"}
 ![Bfield_at_xyz](https://github.com/PopeyedLocket/Rect-Bar-mag-B-Field-Finder/blob/master/images/Bfield_at_xyz_image.jpg?raw=true "B filed at (x,y,z)"){:height="50%" width="50%"}
 ![Bfield_at_xyz](https://github.com/PopeyedLocket/Rect-Bar-mag-B-Field-Finder/blob/master/images/Bfield_at_xyz_image.jpg?raw=true "B filed at (x,y,z)"){:height="700px" width="400px"}
