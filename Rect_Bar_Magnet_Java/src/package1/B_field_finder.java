@@ -2,7 +2,8 @@ package package1;
 
 public class B_field_finder {
 
-	/* returns: B field in Teslas from a magnet at the coordinates of the point specified (coordinate origin is at the center of the magnet)
+	/* returns: B field in Teslas from a magnet at the coordinates of the point specified
+	 * (coordinate origin is at the center of the magnet)
 	 * 
 	 * arguments:
 	 * x, y, z are the coordinates of the point at which the B field is found in meters
